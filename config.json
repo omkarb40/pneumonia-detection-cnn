@@ -1,0 +1,26 @@
+{
+    "dataset_path": "../data/raw/chest_xray",
+    "total_images": 5856,
+    "train_size": 5216,
+    "val_size": 16,
+    "test_size": 624,
+    "normal_count": 1583,
+    "pneumonia_count": 4273,
+    "imbalance_ratio": 2.6993051168667086,
+    "target_image_size": 224,
+    "normalization_mean": 0.485,
+    "normalization_std": 0.229,
+    "new_train_size": 4099,
+    "new_val_size": 877,
+    "new_test_size": 880,
+    "batch_size": 32,
+    "augmentation_enabled": true,
+    "class_to_idx": {
+        "NORMAL": 0,
+        "PNEUMONIA": 1
+    },
+    "idx_to_class": {
+        "0": "NORMAL",
+        "1": "PNEUMONIA"
+    }
+}

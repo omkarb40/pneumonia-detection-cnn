@@ -106,10 +106,7 @@ pneumonia-detection-cnn/
 ## Course Information
 - **Course**: CIS 602 - Fundamentals of Deep Learning
 - **Author**: Omkar Badadale
-- **Date**: November 2024
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **Date**: November 2025
 
 ## Acknowledgments
 - Dataset provided by Paul Mooney on Kaggle
